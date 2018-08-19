@@ -39,7 +39,7 @@
    <div id="detail">
 <p style="font-size: 30px; font-weight: bold; margin-left: 40%"> BINGO! </p>
 <p style="margin-left: 42%"> version 1.0.0 </p>
-<p style="margin-left: 18%; font-style: italic;"> Programmed by a student of poornima university </p>
+<p style="margin-left: 18%; font-style: italic;"> Programmed by Sahdev Surolia </p>
 <p style="margin-left: 33%"> Game live on 12-may-2018</p>
 <p style="margin-left: 48%; font-size: 30px; color:red">♥</p>
 </div>
