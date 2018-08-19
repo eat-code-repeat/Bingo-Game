@@ -54,7 +54,7 @@
   </div>
 
 <?php
-$link = mysqli_connect("fdb21.awardspace.net","2718357_bingo","sadu2016","2718357_bingo");
+$link = mysqli_connect("hostname","username","password","database_name");
  if(isset($_POST['username']) && isset($_POST['feedb'])){
   $name = mysqli_real_escape_string($link, $_POST['username']);
   $feedback = mysqli_real_escape_string($link, $_POST['feedb']);
