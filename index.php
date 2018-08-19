@@ -79,7 +79,8 @@
      <p><span class="heading"> Welcome To Bingo Game</span></p>
       <?php
       $randcode = rand(0,10000000);
-      echo "<p class='tobebold'> Programmed by student of B.Tech CS</p>
+      echo "<p class='tobebold'> Programmed by Sahdev Surolia</p>
+      <p class='tobebold'> Instagram (@iamsahdev.s)</p>
 <p class='tobebold'>This is multiplayer game, so you must invite your friend to start the game by sharing this given below URL to your friend. </p>
       <p class='tobeitalic'> http://thebingo.mygamesonline.org/player2.php?code=$randcode </p>"; 
           echo "<p class='tobebold'> After sharing above URL to your friend, click on START button to play the game </p>
