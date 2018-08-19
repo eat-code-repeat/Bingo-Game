@@ -16,7 +16,7 @@ name -varchar
 code -int
 ptype -int
 winner - int</br>
-<b>2. feedback<b> <i>optional</i></br>
+<b>2. feedback</b> <i>optional</i></br>
 <b>column</b></br>
 name -varchar
 feedb -text
