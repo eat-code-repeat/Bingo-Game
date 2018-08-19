@@ -82,7 +82,7 @@
       echo "<p class='tobebold'> Programmed by Sahdev Surolia</p>
       <p class='tobebold'> Instagram (@iamsahdev.s)</p>
 <p class='tobebold'>This is multiplayer game, so you must invite your friend to start the game by sharing this given below URL to your friend. </p>
-      <p class='tobeitalic'> http://thebingo.mygamesonline.org/player2.php?code=$randcode </p>"; 
+      <p class='tobeitalic'> http://yourwebsite/player2.php?code=$randcode </p>"; 
           echo "<p class='tobebold'> After sharing above URL to your friend, click on START button to play the game </p>
  <p class='tobebold'> After clicking the start button you and your friend are connected together with server to play the game.</p>
 <p class='tobebold'>Kindly read the Instruction give below to play the game.</p>";
