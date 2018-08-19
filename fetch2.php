@@ -1,7 +1,7 @@
 <?php
 session_start();
 $getcode = $_SESSION['code2'];
-$link = mysqli_connect("fdb21.awardspace.net","2718357_bingo","sadu2016","2718357_bingo");
+$link = mysqli_connect("hostname","username","password","database_name");
 
 $i = 1;
 
