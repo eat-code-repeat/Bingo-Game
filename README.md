@@ -11,14 +11,14 @@ The first who select 5 rows/column will win the game.</br>
 <h1>Tables used in game</h1>
 <b>1. game </b></br>
 <b>columns: </b></br>
-value -int
-name -varchar
-code -int
-ptype -int
+value -int</br>
+name -varchar</br>
+code -int</br>
+ptype -int</br>
 winner - int</br>
 <b>2. feedback</b> <i>optional</i></br>
 <b>column</b></br>
-name -varchar
-feedb -text
+name -varchar</br>
+feedb -text</br>
   
 
